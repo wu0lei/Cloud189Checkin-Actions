@@ -63,7 +63,7 @@ jobs:
         }
         function FTQQ()
         {
-          echo -n "Server酱："
+          echo -n "Server酱：SCU22843Ted1b6a52f6fe8200c3c6d62e03f62d2f5ca1800f5962a"
           url="https://sc.ftqq.com/${SCKEY}.send"
           data="`date "+%F %T %A"`\n$2"
           n='
